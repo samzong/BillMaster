@@ -1,4 +1,4 @@
-# Billing Management System
+# BillMaster
 
 A modern billing management system built with Flask and Vue.js, featuring user authentication and profile management.
 
